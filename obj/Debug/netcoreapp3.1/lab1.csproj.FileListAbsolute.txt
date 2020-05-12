@@ -1,0 +1,13 @@
+/home/crunchy65/Projects/sysprog/lab1/bin/Debug/netcoreapp3.1/lab1
+/home/crunchy65/Projects/sysprog/lab1/bin/Debug/netcoreapp3.1/lab1.deps.json
+/home/crunchy65/Projects/sysprog/lab1/bin/Debug/netcoreapp3.1/lab1.runtimeconfig.json
+/home/crunchy65/Projects/sysprog/lab1/bin/Debug/netcoreapp3.1/lab1.runtimeconfig.dev.json
+/home/crunchy65/Projects/sysprog/lab1/bin/Debug/netcoreapp3.1/lab1.dll
+/home/crunchy65/Projects/sysprog/lab1/bin/Debug/netcoreapp3.1/lab1.pdb
+/home/crunchy65/Projects/sysprog/lab1/obj/Debug/netcoreapp3.1/lab1.csprojAssemblyReference.cache
+/home/crunchy65/Projects/sysprog/lab1/obj/Debug/netcoreapp3.1/lab1.AssemblyInfoInputs.cache
+/home/crunchy65/Projects/sysprog/lab1/obj/Debug/netcoreapp3.1/lab1.AssemblyInfo.cs
+/home/crunchy65/Projects/sysprog/lab1/obj/Debug/netcoreapp3.1/lab1.dll
+/home/crunchy65/Projects/sysprog/lab1/obj/Debug/netcoreapp3.1/lab1.pdb
+/home/crunchy65/Projects/sysprog/lab1/bin/Debug/netcoreapp3.1/System.CommandLine.dll
+/home/crunchy65/Projects/sysprog/lab1/obj/Debug/netcoreapp3.1/lab1.csproj.CopyComplete
